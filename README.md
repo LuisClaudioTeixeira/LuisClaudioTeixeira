@@ -1,3 +1,7 @@
+<div align="center">
+	<img alt="banner" width="800" src="https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif">
+</div>
+
 ### Hello, my name is Luis Cláudio 👋
 #
 
@@ -10,7 +14,10 @@ Some information about myself: <img align="right" height="180em" src="https://64
 - ⚡ Fun fact: I love Pokemon and One Piece!
 - 🖥️ I love technology
 - 📍 Salvador - BA
+
+- Hello! My name is Luis, and I am passionate about data with experience in the field, particularly in Python. I have knowledge of several other programming languages and am always eager to expand my horizons. Currently, I'm exploring and learning more about data science and data engineering. I'm constantly seeking new challenges and opportunities to apply my knowledge and contribute to interesting projects.
 #
+
 
 ### Contacts:
 <br/>
@@ -43,13 +50,14 @@ Some information about myself: <img align="right" height="180em" src="https://64
 
  ### Github Status
  <div align="left" style="display:flex;flex-direction=row;justify-content=space-between;">
- <details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisClaudioTeixeira&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisClaudioTeixeira&theme=dark&layout=compact)
     
-</details>
+
 </div>
+
+
 
 #
