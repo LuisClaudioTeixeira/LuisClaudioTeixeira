@@ -22,10 +22,13 @@ Some information about myself: <img align="right" height="180em" src="https://64
 ### Contacts:
 <br/>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-claudio-3511b1323)
-
-[![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lu.claudio14@hotmail.com)
-
+<a href="https://www.linkedin.com/in/luis-claudioteixeira-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:lu.claudio14@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
 #
 
  ### Languages
@@ -61,3 +64,8 @@ Some information about myself: <img align="right" height="180em" src="https://64
 
 
 #
+
+
+
+
+
