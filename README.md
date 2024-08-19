@@ -16,6 +16,10 @@ Some information about myself: <img align="right" height="180em" src="https://64
 - 📍 Salvador - BA
 
 - Hello! My name is Luis, and I am passionate about data with experience in the field, particularly in Python. I have knowledge of several other programming languages and am always eager to expand my horizons. Currently, I'm exploring and learning more about data science and data engineering. I'm constantly seeking new challenges and opportunities to apply my knowledge and contribute to interesting projects.
+
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/d723f998-331a-49da-8c6c-41d1696f45b1.svg)](https://wakatime.com/@d723f998-331a-49da-8c6c-41d1696f45b1)
 #
 
 
@@ -57,15 +61,9 @@ Some information about myself: <img align="right" height="180em" src="https://64
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisClaudioTeixeira&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisClaudioTeixeira&theme=dark&layout=compact)
-    
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luis_meianoite)](https://github.com/LuisClaudioTeixeira/github-readme-stats)
 
 </div>
 
-
-
 #
-
-
-
-
-
