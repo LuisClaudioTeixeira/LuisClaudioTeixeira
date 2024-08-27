@@ -42,6 +42,7 @@ Some information about myself: <img align="right" height="180em" src="https://64
  <img aling="center" alt=MySql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img aling="center" alt=AWS src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img aling="center" alt=C++ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	 
  #
 
  ### Tools
