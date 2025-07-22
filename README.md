@@ -34,7 +34,16 @@ Some information about myself: <img align="right" height="180em" src="https://64
   </a>
   
 #
+ #
 
+ ### Tools
+ 
+ <div style="display: inlineblock"> <br/>
+ <img aling="center" alt=Eclipse src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+ <img aling="center" alt=VSCODE src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img aling="center" alt=PYCharm src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+
+ #
  ### Languages
  
  <div style="display: inlineblock"> <br/>
