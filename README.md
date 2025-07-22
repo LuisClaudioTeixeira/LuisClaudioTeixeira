@@ -43,16 +43,6 @@ Some information about myself: <img align="right" height="180em" src="https://64
   <img aling="center" alt=AWS src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img aling="center" alt=C++ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	 
- #
-
- ### Tools
- 
- <div style="display: inlineblock"> <br/>
- <img aling="center" alt=Eclipse src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
- <img aling="center" alt=VSCODE src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- <img aling="center" alt=PYCharm src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-
- #
 
  ### Github Status
  <div align="left" style="display:flex;flex-direction=row;justify-content=space-between;">
