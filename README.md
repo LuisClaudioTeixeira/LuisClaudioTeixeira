@@ -58,8 +58,6 @@ Some information about myself: <img align="right" height="180em" src="https://64
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisClaudioTeixeira&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisClaudioTeixeira&theme=dark&layout=compact)
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luis_meianoite)](https://github.com/LuisClaudioTeixeira/github-readme-stats)
 
 </div>
